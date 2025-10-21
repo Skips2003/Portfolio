@@ -33,4 +33,87 @@
     font-style: normal;
     font-weight: 300;
     font-size: small;
+    text-align: center;
+}
+
+.custom-shape-divider-top-1761057702 {
+    position: absolute;
+    top: 1;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1761057702 svg {
+    position: relative;
+    display: block;
+    width: calc(132% + 1.5px);
+    height: 68px;
+}
+
+.custom-shape-divider-top-1761057702 .shape-fill {
+    fill: #eddfdd;
+}
+
+.custom-shape-divider-bottom-1761057895 {
+    position: absolute;
+    bottom: 1;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1761057895 svg {
+    position: relative;
+    display: block;
+    width: calc(132% + 1.3px);
+    height: 68px;
+}
+
+.custom-shape-divider-bottom-1761057895 .shape-fill {
+    fill: #e7cdca;
+}
+
+.custom-shape-divider-top-1761058751 {
+    position: absolute;
+    top: 1;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1761058751 svg {
+    position: relative;
+    display: block;
+    width: calc(132% + 1.3px);
+    height: 68px;
+}
+
+.custom-shape-divider-top-1761058751 .shape-fill {
+    fill: #E7CDCA;
+}
+
+.custom-shape-divider-bottom-1761058827 {
+    position: absolute;
+    bottom: 1;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1761058827 svg {
+    position: relative;
+    display: block;
+    width: calc(132% + 1.3px);
+    height: 68px;
+}
+
+.custom-shape-divider-bottom-1761058827 .shape-fill {
+    fill: #EDDFDD;
 }
