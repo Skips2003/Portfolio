@@ -1,0 +1,36 @@
+/* Text Styles*/
+
+.mainHeader {
+    color: #3e5b63;
+    text-align: center;
+    font-family: redonda-condensed, sans-serif;
+    font-style: normal; 
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.normHeader {
+    color: #3e5b63;
+    text-align: center;
+    font-family: redonda-condensed, sans-serif;
+    font-style: normal; 
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.paraBold {
+    color: #809E9C;
+    text-align: center;
+    font-family: degular, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: medium;
+}
+
+.paraBullet{
+    color: #809E9C;
+    font-family: degular, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: small;
+}
